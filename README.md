@@ -7,4 +7,7 @@
     <li>Name, age, gender and ticket fare for each passenger</li>
     <li>Total Ticket price</li> 
  </ul> 
+ <p>The generated ticket should be written to a file.</P>
+ <h2>Business Requirements</h2> 
+ 
   

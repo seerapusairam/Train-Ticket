@@ -4,5 +4,7 @@
    The generated ticket should contain the following details:<p> 
  <ul>
     <li>PNR Number, Travel date, Train Number, Train Name, Source Station, Destination Station</li>
+    <li>Name, age, gender and ticket fare for each passenger</li>
+    <li>Total Ticket price</li> 
  </ul> 
   
